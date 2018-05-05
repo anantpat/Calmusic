@@ -15,6 +15,21 @@
 		9CC5A026209D3CB900B3B58A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A024209D3CB900B3B58A /* LaunchScreen.storyboard */; };
 		9CC5A031209D3CB900B3B58A /* CalmusicTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC5A030209D3CB900B3B58A /* CalmusicTests.swift */; };
 		9CC5A03C209D3CB900B3B58A /* CalmusicUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9CC5A03B209D3CB900B3B58A /* CalmusicUITests.swift */; };
+		9CC5A055209D75BD00B3B58A /* images.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A054209D75BC00B3B58A /* images.jpg */; };
+		9CC5A05B209DEAC500B3B58A /* image.png in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A05A209DEAC500B3B58A /* image.png */; };
+		9CC5A0BE209E325300B3B58A /* RUDE - Eternal Youth.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0B1209E325300B3B58A /* RUDE - Eternal Youth.mp3 */; };
+		9CC5A0BF209E325300B3B58A /* Charlie Puth - One Call Away Official Video.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0B2209E325300B3B58A /* Charlie Puth - One Call Away Official Video.mp3 */; };
+		9CC5A0C0209E325300B3B58A /* Taylor Swift - Everything Has Changed ft. Ed Sheeran.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0B3209E325300B3B58A /* Taylor Swift - Everything Has Changed ft. Ed Sheeran.mp3 */; };
+		9CC5A0C1209E325300B3B58A /* Pharrell Williams - Happy (Official Music Video).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0B4209E325300B3B58A /* Pharrell Williams - Happy (Official Music Video).mp3 */; };
+		9CC5A0C2209E325300B3B58A /* James Arthur - Say You Won't Let Go.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0B5209E325300B3B58A /* James Arthur - Say You Won't Let Go.mp3 */; };
+		9CC5A0C3209E325300B3B58A /* PassengerLet Her Go (Official Video).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0B6209E325300B3B58A /* PassengerLet Her Go (Official Video).mp3 */; };
+		9CC5A0C4209E325300B3B58A /* Ed Sheeran - Perfect (Official Music Video).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0B7209E325300B3B58A /* Ed Sheeran - Perfect (Official Music Video).mp3 */; };
+		9CC5A0C5209E325300B3B58A /* The Script - The Man Who Cant Be Moved (Official Video).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0B8209E325300B3B58A /* The Script - The Man Who Cant Be Moved (Official Video).mp3 */; };
+		9CC5A0C6209E325300B3B58A /* The Chainsmokers - Closer (Lyric) ft. Halsey.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0B9209E325300B3B58A /* The Chainsmokers - Closer (Lyric) ft. Halsey.mp3 */; };
+		9CC5A0C7209E325300B3B58A /* Lauv - I Like Me Better Official Video.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0BA209E325300B3B58A /* Lauv - I Like Me Better Official Video.mp3 */; };
+		9CC5A0C8209E325300B3B58A /* Logic - 1-800-273-8255 ft. Alessia Cara & Khalid (Official Audio).mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0BB209E325300B3B58A /* Logic - 1-800-273-8255 ft. Alessia Cara & Khalid (Official Audio).mp3 */; };
+		9CC5A0C9209E325300B3B58A /* Coldplay - The Scientist.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0BC209E325300B3B58A /* Coldplay - The Scientist.mp3 */; };
+		9CC5A0CA209E325300B3B58A /* Christina Perri - A Thousand Years Official Music Video.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9CC5A0BD209E325300B3B58A /* Christina Perri - A Thousand Years Official Music Video.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +64,21 @@
 		9CC5A037209D3CB900B3B58A /* CalmusicUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CalmusicUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9CC5A03B209D3CB900B3B58A /* CalmusicUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalmusicUITests.swift; sourceTree = "<group>"; };
 		9CC5A03D209D3CB900B3B58A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9CC5A054209D75BC00B3B58A /* images.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpg; sourceTree = "<group>"; };
+		9CC5A05A209DEAC500B3B58A /* image.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image.png; sourceTree = "<group>"; };
+		9CC5A0B1209E325300B3B58A /* RUDE - Eternal Youth.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "RUDE - Eternal Youth.mp3"; sourceTree = "<group>"; };
+		9CC5A0B2209E325300B3B58A /* Charlie Puth - One Call Away Official Video.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Charlie Puth - One Call Away Official Video.mp3"; sourceTree = "<group>"; };
+		9CC5A0B3209E325300B3B58A /* Taylor Swift - Everything Has Changed ft. Ed Sheeran.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Taylor Swift - Everything Has Changed ft. Ed Sheeran.mp3"; sourceTree = "<group>"; };
+		9CC5A0B4209E325300B3B58A /* Pharrell Williams - Happy (Official Music Video).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Pharrell Williams - Happy (Official Music Video).mp3"; sourceTree = "<group>"; };
+		9CC5A0B5209E325300B3B58A /* James Arthur - Say You Won't Let Go.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "James Arthur - Say You Won't Let Go.mp3"; sourceTree = "<group>"; };
+		9CC5A0B6209E325300B3B58A /* PassengerLet Her Go (Official Video).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "PassengerLet Her Go (Official Video).mp3"; sourceTree = "<group>"; };
+		9CC5A0B7209E325300B3B58A /* Ed Sheeran - Perfect (Official Music Video).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Ed Sheeran - Perfect (Official Music Video).mp3"; sourceTree = "<group>"; };
+		9CC5A0B8209E325300B3B58A /* The Script - The Man Who Cant Be Moved (Official Video).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Script - The Man Who Cant Be Moved (Official Video).mp3"; sourceTree = "<group>"; };
+		9CC5A0B9209E325300B3B58A /* The Chainsmokers - Closer (Lyric) ft. Halsey.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Chainsmokers - Closer (Lyric) ft. Halsey.mp3"; sourceTree = "<group>"; };
+		9CC5A0BA209E325300B3B58A /* Lauv - I Like Me Better Official Video.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lauv - I Like Me Better Official Video.mp3"; sourceTree = "<group>"; };
+		9CC5A0BB209E325300B3B58A /* Logic - 1-800-273-8255 ft. Alessia Cara & Khalid (Official Audio).mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Logic - 1-800-273-8255 ft. Alessia Cara & Khalid (Official Audio).mp3"; sourceTree = "<group>"; };
+		9CC5A0BC209E325300B3B58A /* Coldplay - The Scientist.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Coldplay - The Scientist.mp3"; sourceTree = "<group>"; };
+		9CC5A0BD209E325300B3B58A /* Christina Perri - A Thousand Years Official Music Video.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Christina Perri - A Thousand Years Official Music Video.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +136,9 @@
 				9CC5A022209D3CB900B3B58A /* Assets.xcassets */,
 				9CC5A024209D3CB900B3B58A /* LaunchScreen.storyboard */,
 				9CC5A027209D3CB900B3B58A /* Info.plist */,
+				9CC5A054209D75BC00B3B58A /* images.jpg */,
+				9CC5A05A209DEAC500B3B58A /* image.png */,
+				9CC5A0B0209E325300B3B58A /* Songs */,
 			);
 			path = Calmusic;
 			sourceTree = "<group>";
@@ -126,6 +159,26 @@
 				9CC5A03D209D3CB900B3B58A /* Info.plist */,
 			);
 			path = CalmusicUITests;
+			sourceTree = "<group>";
+		};
+		9CC5A0B0209E325300B3B58A /* Songs */ = {
+			isa = PBXGroup;
+			children = (
+				9CC5A0B1209E325300B3B58A /* RUDE - Eternal Youth.mp3 */,
+				9CC5A0B2209E325300B3B58A /* Charlie Puth - One Call Away Official Video.mp3 */,
+				9CC5A0B3209E325300B3B58A /* Taylor Swift - Everything Has Changed ft. Ed Sheeran.mp3 */,
+				9CC5A0B4209E325300B3B58A /* Pharrell Williams - Happy (Official Music Video).mp3 */,
+				9CC5A0B5209E325300B3B58A /* James Arthur - Say You Won't Let Go.mp3 */,
+				9CC5A0B6209E325300B3B58A /* PassengerLet Her Go (Official Video).mp3 */,
+				9CC5A0B7209E325300B3B58A /* Ed Sheeran - Perfect (Official Music Video).mp3 */,
+				9CC5A0B8209E325300B3B58A /* The Script - The Man Who Cant Be Moved (Official Video).mp3 */,
+				9CC5A0B9209E325300B3B58A /* The Chainsmokers - Closer (Lyric) ft. Halsey.mp3 */,
+				9CC5A0BA209E325300B3B58A /* Lauv - I Like Me Better Official Video.mp3 */,
+				9CC5A0BB209E325300B3B58A /* Logic - 1-800-273-8255 ft. Alessia Cara & Khalid (Official Audio).mp3 */,
+				9CC5A0BC209E325300B3B58A /* Coldplay - The Scientist.mp3 */,
+				9CC5A0BD209E325300B3B58A /* Christina Perri - A Thousand Years Official Music Video.mp3 */,
+			);
+			path = Songs;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,9 +285,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9CC5A0C9209E325300B3B58A /* Coldplay - The Scientist.mp3 in Resources */,
+				9CC5A0C1209E325300B3B58A /* Pharrell Williams - Happy (Official Music Video).mp3 in Resources */,
+				9CC5A0C6209E325300B3B58A /* The Chainsmokers - Closer (Lyric) ft. Halsey.mp3 in Resources */,
+				9CC5A0C8209E325300B3B58A /* Logic - 1-800-273-8255 ft. Alessia Cara & Khalid (Official Audio).mp3 in Resources */,
+				9CC5A0C5209E325300B3B58A /* The Script - The Man Who Cant Be Moved (Official Video).mp3 in Resources */,
+				9CC5A0BF209E325300B3B58A /* Charlie Puth - One Call Away Official Video.mp3 in Resources */,
+				9CC5A0C2209E325300B3B58A /* James Arthur - Say You Won't Let Go.mp3 in Resources */,
 				9CC5A026209D3CB900B3B58A /* LaunchScreen.storyboard in Resources */,
 				9CC5A023209D3CB900B3B58A /* Assets.xcassets in Resources */,
+				9CC5A0CA209E325300B3B58A /* Christina Perri - A Thousand Years Official Music Video.mp3 in Resources */,
+				9CC5A0C7209E325300B3B58A /* Lauv - I Like Me Better Official Video.mp3 in Resources */,
 				9CC5A021209D3CB600B3B58A /* Main.storyboard in Resources */,
+				9CC5A0C3209E325300B3B58A /* PassengerLet Her Go (Official Video).mp3 in Resources */,
+				9CC5A0BE209E325300B3B58A /* RUDE - Eternal Youth.mp3 in Resources */,
+				9CC5A0C4209E325300B3B58A /* Ed Sheeran - Perfect (Official Music Video).mp3 in Resources */,
+				9CC5A0C0209E325300B3B58A /* Taylor Swift - Everything Has Changed ft. Ed Sheeran.mp3 in Resources */,
+				9CC5A05B209DEAC500B3B58A /* image.png in Resources */,
+				9CC5A055209D75BD00B3B58A /* images.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -435,7 +503,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JWCAUANGQ5;
 				INFOPLIST_FILE = Calmusic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -443,7 +513,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = APC.Calmusic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -452,7 +522,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = JWCAUANGQ5;
 				INFOPLIST_FILE = Calmusic/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 11.3;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -460,7 +532,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = APC.Calmusic;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
